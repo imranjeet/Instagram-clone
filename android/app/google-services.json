@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269157907199",
+    "project_id": "namaste-cb46b",
+    "storage_bucket": "namaste-cb46b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269157907199:android:73d3f660abf948f6ec6aca",
+        "android_client_info": {
+          "package_name": "com.infous.namaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269157907199-fkffutsnpr8atg4i9e2v3ago87p4p5ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infous.namaste",
+            "certificate_hash": "a58e1fc6047119f6aca20e966ee3861a8e7f5f4b"
+          }
+        },
+        {
+          "client_id": "269157907199-fdm6tfgnvptet7mtl55722h1hk5c89j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqiPfqfOWDEGhc7KNL7yCKU_POcyLIFX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269157907199-fdm6tfgnvptet7mtl55722h1hk5c89j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
