@@ -6,10 +6,10 @@
 ### Some Screenshots
 
 <p align="left">
-<img src="Images/1.png" width="150" hight="600" />
-<img src="Images/2.png" width="150" hight="600" />
-<img src="Images/3.png" width="150" hight="600" />
-<img src="Images/4.png" width="150" hight="600" />
+<img src="images/1.png" width="150" hight="600" />
+<img src="images/2.png" width="150" hight="600" />
+<img src="images/3.png" width="150" hight="600" />
+<img src="images/4.png" width="150" hight="600" />
   
 </p>
 
